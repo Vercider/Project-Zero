@@ -1,0 +1,8 @@
+Project Zero
+------------
+1. ich bekomme mehrere Excel Datein von unterschiedlichen Lagerleitern
+	-> ein Bericht pro Lagerleiter
+	-> jder lagerleiter hat ein unterschiedliches aber konsistentes Format
+2. ich speichere alle Dateien in einen Ordner pro Zeitraum
+2. ich lese alle dateien
+3. ich schreibe eine gebuendelte Datei mit allen information
